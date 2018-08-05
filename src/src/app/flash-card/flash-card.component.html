@@ -1,0 +1,12 @@
+<div *ngFor="let each of flashCards">
+  <mat-card>
+    <mat-card-title>{{each.question}}</mat-card-title>
+  </mat-card>
+  <mat-expansion-panel>
+    <mat-expansion-panel-header>
+      <p>Answer</p>
+    </mat-expansion-panel-header>
+    <p>{{each.answer}}</p>
+  </mat-expansion-panel>
+  <br>
+</div>
