@@ -1,4 +1,4 @@
-# angular6-flash-cards
+# angular-flash-cards
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
